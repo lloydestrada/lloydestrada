@@ -1,13 +1,3 @@
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lloydestrada&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="160px"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=lloydestrada&theme=dark&hide_border=false" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloydestrada&theme=dark&hide_border=false&layout=compact" height="160px"/>
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -35,6 +25,17 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lloydestrada&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="160px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=lloydestrada&theme=dark&hide_border=false" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloydestrada&theme=dark&hide_border=false&layout=compact" height="160px"/>
+</div>
+
+---
+
 
 ## 🌐 Socials
 
