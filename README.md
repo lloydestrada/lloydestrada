@@ -1,17 +1,13 @@
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lloydestrada&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="160px"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=lloydestrada&theme=dark&hide_border=false" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloydestrada&theme=dark&hide_border=false&layout=compact" height="160px"/>
-</div>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
----
+  <img src="https://github-readme-stats.vercel.app/api?username=lloydestrada&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150"/>
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=lloydestrada&theme=dark&hide_border=false" height="150"/>
 
-## 🏆 GitHub Trophies
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloydestrada&theme=dark&hide_border=false&layout=compact" height="150"/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lloydestrada&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
 
 ---
