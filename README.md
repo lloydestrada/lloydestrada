@@ -1,4 +1,4 @@
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lloydestrada&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
@@ -6,7 +6,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lloydestrada&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="160px"/>
@@ -37,7 +37,7 @@
 ---
 
 
-## 🌐 Socials
+## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnlloydestrada/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamlloydestrada@gmail.com)
